@@ -1,0 +1,12 @@
+D:\admin\C#lab\WFA_Yacht_Dice\WFA_Yacht_Dice\bin\Release\WFA_Yacht_Dice.exe.config
+D:\admin\C#lab\WFA_Yacht_Dice\WFA_Yacht_Dice\bin\Release\WFA_Yacht_Dice.exe
+D:\admin\C#lab\WFA_Yacht_Dice\WFA_Yacht_Dice\bin\Release\WFA_Yacht_Dice.pdb
+D:\admin\C#lab\WFA_Yacht_Dice\WFA_Yacht_Dice\obj\Release\WFA_Yacht_Dice.Form1.resources
+D:\admin\C#lab\WFA_Yacht_Dice\WFA_Yacht_Dice\obj\Release\WFA_Yacht_Dice.Form_connect.resources
+D:\admin\C#lab\WFA_Yacht_Dice\WFA_Yacht_Dice\obj\Release\WFA_Yacht_Dice.Form_roomcreate.resources
+D:\admin\C#lab\WFA_Yacht_Dice\WFA_Yacht_Dice\obj\Release\WFA_Yacht_Dice.Form_roomfind.resources
+D:\admin\C#lab\WFA_Yacht_Dice\WFA_Yacht_Dice\obj\Release\WFA_Yacht_Dice.Properties.Resources.resources
+D:\admin\C#lab\WFA_Yacht_Dice\WFA_Yacht_Dice\obj\Release\WFA_Yacht_Dice.csproj.GenerateResource.cache
+D:\admin\C#lab\WFA_Yacht_Dice\WFA_Yacht_Dice\obj\Release\WFA_Yacht_Dice.csproj.CoreCompileInputs.cache
+D:\admin\C#lab\WFA_Yacht_Dice\WFA_Yacht_Dice\obj\Release\WFA_Yacht_Dice.exe
+D:\admin\C#lab\WFA_Yacht_Dice\WFA_Yacht_Dice\obj\Release\WFA_Yacht_Dice.pdb
