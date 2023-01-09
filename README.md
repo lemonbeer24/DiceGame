@@ -31,7 +31,7 @@ C# window form app 기반<br>
 C 언어 기반<br>
 개발 환경 - <br>
 IDE : Visual Studio code 1.74.2<br>
-서버 빌드 및 실행 환경 : wsl2 Ubuntu 20.04.1 LTS(code 연동됨)<br>
+서버 빌드 및 실행 환경 : wsl2 Ubuntu 20.04.1 LTS(vscode  연동됨)<br>
 컴파일러 : gcc (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0<br>
 사용 포트번호 : 9290
 
