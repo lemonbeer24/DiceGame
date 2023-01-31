@@ -1,5 +1,4 @@
 # winform - tcpip TermProject 2인용 주사위 게임 텀 프로젝트 
-2020 인하공전 2학년 2학기 TCPIP 과목 텀 프로젝트
 
 ![image](https://user-images.githubusercontent.com/53043464/210517364-a3ef0137-ab5b-4721-8cd8-7d4a235d6c5a.png)
 
